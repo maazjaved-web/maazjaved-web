@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Maaz Javed!
 
-<!--
-**maazjaved-web/maazjaved-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer focused on building clean, responsive websites.
+I'm also exploring modern tools to level up my skills.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code, Netlify, IntelliJ IDEA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Currently Learning
+- Next.js
+- TypeScript
+- Tailwind CSS
+  
+## 💬 Let's Connect
+- LinkedIn: [Maaz Javed](https://www.linkedin.com/in/muhammad-maaz-javed-104711332/)
+- Email: maaz70152@gmail.com
